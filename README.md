@@ -127,6 +127,7 @@ Run the frontend:
 npm run dev
 ````
 Open your browser at:
+
 http://localhost:5173
 
 ---
@@ -175,4 +176,5 @@ Make sure to configure environment variables correctly for production.
 
 If you like this project or find it useful, feel free to star ⭐ the repository.
 Feedback, issues, and suggestions are always welcome!
+
 
