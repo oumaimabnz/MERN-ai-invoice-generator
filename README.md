@@ -137,9 +137,7 @@ http://localhost:5173
 This project can be deployed using:
 
 - Render (Backend + Fullstack deployment)
-
 - Vercel / Netlify (Frontend only)
-
 - MongoDB Atlas (Database)
 
 Make sure to configure environment variables correctly for production.
@@ -149,15 +147,10 @@ Make sure to configure environment variables correctly for production.
 ### 🎯 What This Project Demonstrates
 
 - Full-stack MERN architecture
-
 - REST API design and integration
-
 - Authentication with JWT
-
 - AI integration in real use cases
-
 - Clean and maintainable project structure
-
 - Production-ready deployment workflow
 
 ---
@@ -176,5 +169,6 @@ Make sure to configure environment variables correctly for production.
 
 If you like this project or find it useful, feel free to star ⭐ the repository.
 Feedback, issues, and suggestions are always welcome!
+
 
 
