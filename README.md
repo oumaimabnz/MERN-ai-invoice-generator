@@ -1,9 +1,8 @@
 # MERN AI Invoice Generator
 
-An AI-powered **Invoice Management Web Application** built with the **MERN stack** (MongoDB, Express, React, Node.js).  
-This application allows users to **create, manage, and analyze invoices**, with integrated **AI features** such as invoice text parsing and automatic reminder generation.
+An AI-powered **Invoice Management Web Application** built with the **MERN stack** (MongoDB, Express, React, Node.js).
 
-This project demonstrates **full-stack development**, secure authentication, REST APIs, and real-world AI integration in a modern web application.
+This application simulates a **real-world business workflow** where invoices are created, processed, and tracked, while leveraging **AI to automate repetitive financial tasks** such as extracting structured data and generating payment reminders.
 
 ---
 
